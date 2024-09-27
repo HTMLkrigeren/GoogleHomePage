@@ -19,8 +19,6 @@
 ## Built with
  .1 HTML
  .2 CSS
-## Features
-
 ## How To Use
 HTML
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
