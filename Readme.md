@@ -1,38 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Google Home Page</title>
-    <link rel="stylesheet" href="style.css">
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-</head>
-
-## Overskrift
+<h1 align="center">Google Homepage Kopi </h1>
+<div align="center">
+  <h3>
+    <a href="https://github.com/HTMLkrigeren/GoogleHomePage">
+      Lenken til prosjektet
+    </a>
+  </h3>
+</div>
 
 ## Table of contents
-1. Introduction
-2. Installation
-3. Usage
-4. Contributing
-5. License
-## Overwiew
-
+- [Overview](#Overview)
+- [Built With](#Built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+- [Contact](#contact)
+- [Forventet resultat og resultat](#forventet-resultat)
+## Overview
+ En kopi av Google sin netside.
 ## Built with
  .1 HTML
  .2 CSS
 ## Features
 
+## How To Use
+HTML
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+CSS 
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Youtube
+https://www.youtube.com/watch?v=phWxA89Dy94
+
 ## Contact
-- GitHub [Røyken VGS](https://github.com/HTMLkrigeren)
-- Epost [Røyken VGS](mailto:test@gmail.com)
-## Links 
+- GitHub [HTMLkrigeren](https://github.com/HTMLkrigeren)
 
 ## License
 Det er gratis (MIT licesse)
 ## Documentation
-
+dette prosjektet er kun bygget med HTML og CSS, ikke noe JS som gjør at den har null funksjoner.
 ## Forventet resultat
 
 <img src="./image.png" alt="bilde1" width="500">
